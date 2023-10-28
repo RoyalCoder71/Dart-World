@@ -13,8 +13,8 @@ a) `arithmatic` --> `[+], [-], [*], [/]`<br>
 b) `relational` --> `[<=], [<], [>], [>=], [is], [is!]`<br>
 c) `logical AND` --> `[&&]`<br>
 d) `logical OR` --> `[||]`<br>
-e) `unary postfix` --> `[expr++], [expr--], [], [], []`<br>
-f) `unary prefix` --> ``<br>
-g) `` --> ``<br>
-h) `` --> ``<br>
-i) `` --> ``<br>
+e) `unary postfix` --> `[expr++], [expr--]`<br>
+f) `unary prefix` --> `[+expr], [-expr], [++expr], [--expr], [!expr]`<br>
+g) `assignment` --> `[+=], [-=], [*=], [/=], [&=], [^=]`<br>
+h) `bitwise AND, OR, XOR` --> `[&], [|], [^]`<br>
+i) `conditional` --> `expr 1 ? [condition1] : [condition2]`<br>
