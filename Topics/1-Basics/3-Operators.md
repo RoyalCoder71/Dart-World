@@ -11,7 +11,7 @@ The operators are special symbols that are used to carry out certain operations 
 🚩For getting more about operators click [Me](https://www.geeksforgeeks.org/operators-in-dart/)
 </p>
 
-### a) Arithmatic Operator:
+## a) Arithmatic Operator:
 🎯**Code Example:**
 ```
 void main() {
@@ -35,7 +35,7 @@ void main() {
   Division(integer type): 2,<br> 
   Remainder: 0
 
-### b) Relational Operator:
+## b) Relational Operator:
 🎯**Code Example:**
 ```
 void main() {
@@ -58,7 +58,7 @@ void main() {
   a is less than and equals to b: true<br>
   a is less than b: true
 
-### c) Logical AND Operator:
+## c) Logical AND Operator:
 🎯**Code Example:**
 ```
 void main() {
@@ -81,7 +81,7 @@ void main() {
   a != b && a < b:
   true
 
-### d) Logical OR Operator:
+## d) Logical OR Operator:
 🎯**Code Example:**
 ```
 void main(){
