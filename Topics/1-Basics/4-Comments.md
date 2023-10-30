@@ -10,13 +10,43 @@
   ♦️ Documentation Comments </b>
 </p>
 
-### a) Single-Line Comments:
+## a) Single-Line Comments:
+:octocat: **Used Sign:** `//`<br>
 🎯**Code Example:**
 ```
 void main(){  
     // print function is used to show statement on screen  
     print("Welcome to my Github");  
 }
+```
+📝**Output:**
+> Welcome to my Github
+
+## b) Multi-Line Comments:
+:octocat: **Used Sign:** `/*...*/`<br>
+🎯**Code Examples:**
+```
+void main(){  
+    /* This is the example of multi-line comment 
+    This will print the given statement on screen */  
+      
+    print("Welcome to my Github");  
+}
+```
+📝**Output:**
+> Welcome to my Github
+
+## c) Documentation Comments:
+:octocat: **Used Sign:** `/// or /*...*/`<br>
+🎯**Code Examples:**
+```
+void main(){  
+    ///This is   
+    ///the example of   
+    ///multi-line comment  
+    ///This will print the given statement on screen.  
+    print("Welcome to my Github");  
+}  
 ```
 📝**Output:**
 > Welcome to my Github
