@@ -13,7 +13,7 @@ import 'dart:io';
  
 void main()
 {
-    print("Enter your name: ");
+    print("Enter your name?");
     // Reading name of the user
     String name = stdin.readLineSync()!; // null safety in name string
  
