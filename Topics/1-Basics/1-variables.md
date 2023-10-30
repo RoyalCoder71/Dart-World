@@ -50,7 +50,7 @@ The operators are special symbols that are used to carry out certain operations 
 ♦️ **`Relational operator`** is used to identify relations between Left & Rigth side.<br>
 ♦️ **`Logical AND operator`**, returns true when all the conditions are true, otherwise returns false.<br>
 ♦️ **`Logical OR operator`**, returns false when all the conditions are false, otherwise returns true.<br>
-⚠️For getting more about operators click [🚩Me](https://www.geeksforgeeks.org/operators-in-dart/)
+🚩For getting more about operators click [Me](https://www.geeksforgeeks.org/operators-in-dart/)
 </p>
 
 ### a) Arithmatic Operator:
