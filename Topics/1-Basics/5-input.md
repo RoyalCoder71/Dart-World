@@ -20,5 +20,28 @@ void main()
     // Printing the name
     print("Hello, dear $name! Welcome to my Github");
 }
-
 ```
+📝**Output:**
+> Run Yourself
+
+
+## b. Input(int type & double type):
+🎯**Code Example:**
+```
+// importing dart:io file
+import 'dart:io';
+ 
+void main()
+{
+    print("Enter your age?");
+    // Taking age and height of the user
+    int age = int.parse(stdin.readLineSync()!); // null safety
+    print("Enter your height?");
+    double height = double.parse(stdin.readLineSync()!); // null safety
+ 
+    // Printing the age and height
+    print("Age: $age, \nHeight: $height");
+}
+```
+📝**Output:**
+> Run Yourself
